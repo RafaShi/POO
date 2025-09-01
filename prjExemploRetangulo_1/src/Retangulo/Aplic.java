@@ -16,8 +16,8 @@ public class Aplic {
 
         objRet.setBase(8.0);    //passagem de mensagem
 
-        System.out.println("Media da altura do retângulo " + objRet.getAltura());
-        System.out.println("Media da altura do retângulo " + objRet.getBase() );
+        System.out.println("Medida da altura do retângulo " + objRet.getAltura());
+        System.out.println("Medida da altura do retângulo " + objRet.getBase() );
         System.out.println("Medida da diagonal "+ objRet.calcDiagonal());
         //IMPLEMENTAÇÃO DO CASO DE USO CONSULTAR ÁREA DA FIGURA GEOMETRICA RETANGULO:
 
@@ -40,4 +40,5 @@ public class Aplic {
     }
 
 }
+
  
